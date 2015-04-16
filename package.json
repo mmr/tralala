@@ -1,6 +1,6 @@
 {
   "name": "tralala",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tralala for you",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
     "tralala"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
   "bin": "index.js"
 }
