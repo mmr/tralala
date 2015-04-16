@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-var numTralalas = Number(process.argv[2]) || 0;
+var numTralalas = Math.max(Number(process.argv[2]) || 0, 0);
 var vogal = process.argv[3] || 'a';
 var initialLalas = 2;
 
