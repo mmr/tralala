@@ -6,25 +6,23 @@ Trololo
 
 Trololo, tralalalala trelele, trilili trelele!
 
-Trelele:
-
+* Trelele:
 ```bash
 npm -g install tralala
 tralala
-```o
+```
 
-Trololo:
-
+* Trololo:
 ```bash
 tralala 10 o
 ```
 
-Trelele:
+* Trelele:
 ```bash
 tralala 10 e
 ```
 
-Tralalalalalalalalalalalala(...):
+* Tralalalalalalalalalalalala(...):
 ```bash
 tralala 100
 ```
