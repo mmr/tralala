@@ -1,4 +1,4 @@
-#!/usr/bin/node
+#!/usr/bin/env node
 var numTralalas = Number(process.argv[2]);
 var tralala = '\033[31mTralala';
 for (var i = 0; i < numTralalas; i++) {
