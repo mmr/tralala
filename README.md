@@ -6,7 +6,7 @@ Trololo
 
 Trololo, tralalalala trelele, trilili trelele!
 
-* Trelele:
+* Tralala:
 ```bash
 npm -g install tralala
 tralala
