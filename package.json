@@ -1,15 +1,15 @@
 {
-  'name': 'tralala',
-  'version': '2.0.1',
-  'description': 'Tralala for you',
-  'main': 'index.js',
-  'scripts': {
-    'test': 'echo \'Error: no test specified\' && exit 1'
+  "name": "tralala",
+  "version": "2.0.1",
+  "description": "Tralala for you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  'keywords': [
-    'tralala'
+  "keywords": [
+    "tralala"
   ],
-  'author': '',
-  'license': 'ISC',
-  'bin': 'index.js'
+  "author": "",
+  "license": "ISC",
+  "bin": "index.js"
 }
