@@ -7,10 +7,10 @@ function randomInt(low, high) {
   return Math.floor(Math.random() * (high -low + 1) + low);
 }
 
-var initialColor = randomInt(30, 37);
+var initialColor = randomInt(31, 37);
 
 var tralala = '\033[' + initialColor + 'mTr' + vogal;
 for (var i = 0; i < numTralalas + initialLalas; i++) {
-  tralala += '\033[' + randomInt(30, 37) + 'ml' + vogal;
+  tralala += '\033[' + randomInt(31, 37) + 'ml' + vogal;
 }
 console.log(tralala + '\033[0m');
