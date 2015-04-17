@@ -13,7 +13,7 @@
       "name": "Marcio Ribeiro",
       "email": "binary@b1n.org",
       "url": "http://b1n.org/"
-  }
+  },
   "license": "ISC",
   "bin": "index.js",
   "repository": {
